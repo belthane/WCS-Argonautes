@@ -5,6 +5,7 @@ https://codepen.io/wildcodeschool/pen/LYpoBBN
 ## Pour aider Jason, vous allez :
 
 1 - Créer une application web simple dans votre langage de prédilection.
+
 2 - Stocker les données de cette application dans une base de données.
 
 L'application ne comportera qu'une seule page.
